@@ -1,7 +1,7 @@
 # Government support for tree-growing by farmers: Evidence from India’s agroforestry programs
 This repository contains the code for reproducing the results presented in "Government support for tree-growing by farmers: Evidence from India’s agroforestry programs", currently submitted to Nature Sustainability for review.
 
-Below is a table summarizing the code files and codebooks in this repository. The actual dataset used has been uploaded to figshare repository as required by Nature Sustainability. (*Link to be provided upon publication*).
+Below is a table summarizing the code files and codebooks in this repository. The actual dataset link will be provided once the paper is published.
 | File name  | File type | Description |
 | ------------- | ------------- | ------------- |
 | [Commercial tree growing by farmers in Madhya Pradesh, India.do](https://github.com/zhixianluo/IndiaAgroforestry/tree/main/code) | Stata do-file  | Stata do-file (script) used to generate descriptive statistics, conduct inverse probability weighted regession analysis (IPWRA), and estimate lasso prediction models; uses "Commercial tree growing_HH_Vill_GIS.dta" (uploaded to figshare) |
