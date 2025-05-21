@@ -1,7 +1,7 @@
 # Government support for tree-growing by farmers: Evidence from India’s agroforestry programs
 This repository contains the code for reproducing the results presented in "Government support for tree-growing by farmers: Evidence from India’s agroforestry programs".
 
-Below is a table summarizing the code files and codebooks in this repository. *The actual dataset (Item No. 1, 5, 7 and 8) link will be provided once the paper is published.*
+Below is a table summarizing the code files and codebooks in this repository. *The links to the datasets (Item No. 1, 5, 7 and 8) will be provided once the paper is published.*
 | No | File name  | File type | Description |
 | ------------- | ------------- | ------------- | ------------- |
 | 1 | Data_Commercial tree growing_HH_Vill_GIS.dta | Dataset  | Contains cleaned and anonymized dataset used for all analyses presented in the manuscript |
